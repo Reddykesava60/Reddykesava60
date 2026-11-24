@@ -33,7 +33,7 @@ I turn operational problems into reliable software: multi-tenant ordering and ki
 
 ## 🚀 Featured Projects
 
-### [OrderFlow — Dineflow](https://github.com/Reddykesava60/OrderFlow)
+### [ Dineflow](https://github.com/Reddykesava60/OrderFlow)
 
 A production-oriented, multi-tenant cafe and restaurant operations platform that centralizes QR ordering, kitchen displays, inventory, payments, and financial reconciliation. It addresses the common operational problems of lost paper tickets, overselling, delayed settlement, and disconnected outlet workflows.
 
